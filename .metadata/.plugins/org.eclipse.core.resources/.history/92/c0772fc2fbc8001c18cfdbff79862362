@@ -1,0 +1,46 @@
+package sec02.ex01;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class CalcServlet
+ */
+@WebServlet("/calc")
+public class CalcServlet extends HttpServlet {
+	public void init(ServletConfig config) throws ServletException {
+	}
+
+	public void destroy() {
+	}
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		request.setCharacterEncoding("UFT-8");
+		response.setContentType("text/html; charset=UTF-8"); 
+		PrintWriter pw = response.getWriter();
+		String command = request.getParameter("command");
+		String won = request.getParameter("won");
+		String operator = request.getParameter("operator");
+		
+		if (command != null && command.equals("calculate")) {
+			String result = 
+		}
+	}
+	
+	private static String calculate(float won, String operater) {
+		String result = null;
+		if(operater.equals("dollar")) {
+			result = String.format("%.6f", args)
+		}
+		
+		return result;
+	}
+
+}

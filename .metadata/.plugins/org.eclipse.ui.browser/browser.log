@@ -1,0 +1,47 @@
+
+4월 30, 2022 13:40:13.89 NEW SESSION
+4월 30, 2022 13:40:13.89 [132:7756:0430/134013.856:ERROR:device_event_log_impl.cc(214)] [13:40:13.855] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:40:13.92 [132:7756:0430/134013.921:ERROR:device_event_log_impl.cc(214)] [13:40:13.921] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:40:30.23 [7472:1808:0430/134030.230:ERROR:device_event_log_impl.cc(214)] [13:40:30.229] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:40:30.43 [7472:1808:0430/134030.435:ERROR:device_event_log_impl.cc(214)] [13:40:30.435] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:40:46.18 [2700:7700:0430/134046.187:ERROR:device_event_log_impl.cc(214)] [13:40:46.186] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:40:46.27 [2700:7700:0430/134046.272:ERROR:device_event_log_impl.cc(214)] [13:40:46.272] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:42:13.03 [7276:4556:0430/134213.035:ERROR:device_event_log_impl.cc(214)] [13:42:13.034] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:42:13.05 [7276:4556:0430/134213.052:ERROR:device_event_log_impl.cc(214)] [13:42:13.051] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:43:05.25 [7508:6372:0430/134305.249:ERROR:device_event_log_impl.cc(214)] [13:43:05.248] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:43:05.29 [7508:6372:0430/134305.290:ERROR:device_event_log_impl.cc(214)] [13:43:05.291] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:44:04.19 [7016:896:0430/134404.197:ERROR:device_event_log_impl.cc(214)] [13:44:04.197] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:44:04.35 [7016:896:0430/134404.350:ERROR:device_event_log_impl.cc(214)] [13:44:04.350] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:45:31.61 [6760:5368:0430/134531.611:ERROR:device_event_log_impl.cc(214)] [13:45:31.610] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:45:31.68 [6760:5368:0430/134531.686:ERROR:device_event_log_impl.cc(214)] [13:45:31.686] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:49:36.57 [5704:7660:0430/134936.572:ERROR:device_event_log_impl.cc(214)] [13:49:36.571] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:49:36.58 [5704:7660:0430/134936.589:ERROR:device_event_log_impl.cc(214)] [13:49:36.589] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:49:37.14 [5704:3984:0430/134937.140:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
+4월 30, 2022 13:51:30.12 [4436:7996:0430/135130.125:ERROR:device_event_log_impl.cc(214)] [13:51:30.125] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 13:51:30.31 [4436:7996:0430/135130.313:ERROR:device_event_log_impl.cc(214)] [13:51:30.313] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 13:51:30.40 [4436:2292:0430/135130.408:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
+
+4월 30, 2022 18:10:26.29 NEW SESSION
+4월 30, 2022 18:10:26.29 [7748:3368:0430/181026.247:ERROR:device_event_log_impl.cc(214)] [18:10:26.246] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 30, 2022 18:10:26.30 [7748:3368:0430/181026.304:ERROR:device_event_log_impl.cc(214)] [18:10:26.304] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 30, 2022 18:11:22.94 [7748:7592:0430/181122.937:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
+
+5월 01, 2022 24:20:45.01 NEW SESSION
+5월 01, 2022 24:20:45.01 [6052:6328:0501/002045.003:ERROR:device_event_log_impl.cc(214)] [00:20:45.003] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 01, 2022 24:20:45.02 [6052:6328:0501/002045.027:ERROR:device_event_log_impl.cc(214)] [00:20:45.027] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 01, 2022 24:21:41.71 [6052:8204:0501/002141.711:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
+5월 01, 2022 01:41:01.44 [6052:7856:0501/014101.433:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+5월 01, 2022 11:34:59.37 NEW SESSION
+5월 01, 2022 11:34:59.38 [7692:5324:0501/113459.363:ERROR:device_event_log_impl.cc(214)] [11:34:59.363] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 01, 2022 11:34:59.48 [7692:5324:0501/113459.487:ERROR:device_event_log_impl.cc(214)] [11:34:59.487] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 01, 2022 11:35:55.63 [7692:9164:0501/113555.626:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
+5월 01, 2022 12:31:31.54 [7692:7344:0501/123131.545:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 01, 2022 12:31:36.25 [7692:7344:0501/123136.255:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 01, 2022 12:31:50.85 [7692:7344:0501/123150.848:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 01, 2022 14:50:40.91 [7692:7344:0501/145040.909:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 01, 2022 14:50:46.18 [7692:7344:0501/145046.177:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 01, 2022 16:48:20.95 [7692:7344:0501/164820.948:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 01, 2022 16:48:28.36 [7692:7344:0501/164828.362:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 01, 2022 16:48:44.44 [7692:7344:0501/164844.445:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 01, 2022 16:49:09.38 [7692:7344:0501/164909.384:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
