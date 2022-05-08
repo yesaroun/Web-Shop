@@ -10,4 +10,7 @@
 		<item value="C:\tomcat9\webapps\webShop.war"/>
 		<item value="C:\Tomcat 8.5\webapps\webShop.war"/>
 	</list>
+	<list key="J2EE_IMPORT_null">
+		<item value="C:\webShop\WebApp27.war"/>
+	</list>
 </section>
