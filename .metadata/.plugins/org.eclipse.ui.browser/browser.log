@@ -69,3 +69,9 @@
 5월 08, 2022 02:14:00.15 [7804:7092:0508/021400.158:ERROR:device_event_log_impl.cc(214)] [02:14:00.025] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
 5월 08, 2022 02:14:00.33 [7804:7092:0508/021400.336:ERROR:device_event_log_impl.cc(214)] [02:14:00.335] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
 5월 08, 2022 02:14:00.44 [7804:7092:0508/021400.445:ERROR:device_event_log_impl.cc(214)] [02:14:00.445] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+5월 21, 2022 18:00:17.12 NEW SESSION
+5월 21, 2022 18:00:17.12 [8540:7636:0521/180017.106:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+5월 21, 2022 18:00:20.39 [8540:7636:0521/180020.390:ERROR:device_event_log_impl.cc(214)] [18:00:20.390] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 21, 2022 18:00:20.51 [8540:7636:0521/180020.515:ERROR:device_event_log_impl.cc(214)] [18:00:20.516] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 21, 2022 18:01:16.96 [8540:5348:0521/180116.963:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
