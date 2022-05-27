@@ -75,3 +75,22 @@
 5월 21, 2022 18:00:20.39 [8540:7636:0521/180020.390:ERROR:device_event_log_impl.cc(214)] [18:00:20.390] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
 5월 21, 2022 18:00:20.51 [8540:7636:0521/180020.515:ERROR:device_event_log_impl.cc(214)] [18:00:20.516] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
 5월 21, 2022 18:01:16.96 [8540:5348:0521/180116.963:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
+5월 21, 2022 23:23:30.55 [8540:7636:0521/232330.550:ERROR:device_event_log_impl.cc(214)] [23:23:30.550] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 21, 2022 23:24:03.93 [8540:7636:0521/232403.939:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+5월 22, 2022 24:55:05.06 NEW SESSION
+5월 22, 2022 24:55:05.06 [5600:6404:0522/005505.053:ERROR:device_event_log_impl.cc(214)] [00:55:05.052] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 22, 2022 24:55:05.10 [5600:6404:0522/005505.109:ERROR:device_event_log_impl.cc(214)] [00:55:05.109] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 22, 2022 24:56:01.72 [5600:6448:0522/005601.727:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
+5월 22, 2022 12:26:24.34 [5600:6404:0522/122624.320:ERROR:command_buffer_proxy_impl.cc(328)] GPU state invalid after WaitForGetOffsetInRange.
+5월 22, 2022 12:26:24.39 [5600:6404:0522/122624.395:ERROR:device_event_log_impl.cc(214)] [12:26:24.393] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 22, 2022 12:26:24.39 [5600:6404:0522/122624.395:ERROR:device_event_log_impl.cc(214)] [12:26:24.395] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 22, 2022 12:26:25.76 [5600:2008:0522/122625.763:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+5월 22, 2022 12:26:26.46 [5600:6404:0522/122626.466:ERROR:device_event_log_impl.cc(214)] [12:26:26.467] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 22, 2022 12:26:42.74 [5600:6404:0522/122642.741:ERROR:device_event_log_impl.cc(214)] [12:26:42.741] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+5월 22, 2022 18:16:28.89 NEW SESSION
+5월 22, 2022 18:16:28.89 [8128:6908:0522/181628.892:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+5월 22, 2022 18:16:32.41 [8128:6908:0522/181632.412:ERROR:device_event_log_impl.cc(214)] [18:16:32.412] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 22, 2022 18:16:32.56 [8128:6908:0522/181632.567:ERROR:device_event_log_impl.cc(214)] [18:16:32.567] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 22, 2022 18:17:28.78 [8128:8672:0522/181728.782:ERROR:util.cc(126)] Can't create base directory: C:\Program Files (x86)\Google\GoogleUpdater
